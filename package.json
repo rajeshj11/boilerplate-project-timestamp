@@ -1,0 +1,28 @@
+{
+  "name": "fcc-api-projects-boilerplate",
+  "version":  "1.0.0",
+  "description": "An FCC Backend Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "cors": "^2.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshj11/boilerplate-project-timestamp.git"
+  },
+  "keywords": [
+  "node",
+  "express",
+  "freeCodeCamp"
+  ],
+  "author": "Rajesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshj11/boilerplate-project-timestamp/issues"
+  },
+  "homepage": "https://github.com/rajeshj11/boilerplate-project-timestamp#readme"
+}
